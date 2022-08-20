@@ -1,0 +1,5 @@
+Series,TheBigBangTheory,MarkCendrowski,8.2,https://www.youtube.com/watch?v=ozdmU2g_ui4,20,12,24,Kaley,Cuoco,Jim,Parsons,Ghazal,Arzanian
+Series,BreakingBad,VinceGilligan,9.5,https://www.youtube.com/watch?v=ozdmU2g_ui4,60,5,13,Bryan,Cranston,Aaron,Paul
+Film,ColdWar,pawelpawlikowsk,7.5,https://www.youtube.com/watch?v=8ImvkXgGVWw,90,Joanna,Kulig,Tomasz,Kot
+Film,TheFather,FlorianZeller,8.2,https://www.youtube.com/watch?v=mo5WG_ZtbRE,97,Anthony,Hopkins,Olivia,Colman
+Documantary,TheSocialDelimma,JeffOrlowski,7.6,https://www.youtube.com/watch?v=rvg0eY_Ls4Y,94,SocialMedia,Skyler,Gisondo,Jaron,Lanier
